@@ -1,0 +1,186 @@
+@media only screen and (max-width: 768px) {
+    .fsvw_category{
+        font-size: 3.590vw !important;
+    }
+    .wrapper-register__boxleft{
+        border-radius: 8px;
+    }
+
+    .title_product1 {
+        padding: 10px 50px 10px 50px !important;
+        font-size: 16.4px !important;
+
+    }
+    .titleSEO_project {
+        font-size: 27px !important;
+        color: var(--html-bg-website);
+        margin-bottom: 20px;
+    }
+    .project_title {
+        width: 100% !important;
+        font-size: 22px !important;
+        padding-bottom: 8px !important;
+    padding-top: 21px !important;
+    text-align: center;
+    }
+    .product1_slide {
+        padding-bottom: 40px;
+    }
+    .projects{
+        padding-top: 10px !important;
+    }
+    .project_description{
+        margin-bottom: 111px;
+        font-size: 15px;
+    }
+    .info_project1::after {
+        width: 45px !important;
+        height: 45px !important;
+        top: 116% !important;
+        left: 50% !important;
+        transform: translateX(-50%);
+    }
+    .info_project1:hover::before {
+        left: 55% !important;
+    }
+    .info_project1::before {
+
+        top: 124% !important;
+        left: 50% !important;
+        transform: translateX(-96%) !important;
+    }
+    .d-none-mobile{
+        display: none;
+    }
+    .border_why{
+        display: none;
+    }
+    .grid-why {
+        grid-template-columns: repeat(1,1fr) !important;
+        grid-gap: 15px !important;
+    }
+    .margin-centerY {
+        transform: translateY(-30%) !important;
+    }
+    .news_slide::before {
+
+        top: 88% !important;
+    }
+    .news_slide::after {
+
+        top: 85% !important;
+    }
+    .wrapper-regis-btn::after{
+        display: none;
+    }
+    .wrapper-register{
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .border_footer{
+        display: none;
+    }
+    .info_footer {
+        margin-left: 0 !important;
+        transform: translateX(0) !important;
+        width: auto !important;
+    }
+    .title-footer{
+        margin-left: 0px !important;
+    }
+    .center_footer{
+        display: block !important;
+    }
+    .box-mg--lastchild{
+        margin-left: 0px !important;
+    }
+    .pt30mobile{
+        padding-top: 30px !important;
+    }
+    .img_why{
+        width: 27%
+    }
+    .title_rigister {
+        font-size: 32px;
+    }
+    .grid-new{
+        grid-template-columns: repeat(1,1fr) !important;
+    }
+    .news_index{
+        padding-top: 0px !important;
+        padding-bottom: 30px !important;
+    }
+    .feedbacks_slide{
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+    .name_top_feedback{
+        margin-bottom: 20px !important;
+    }
+    .list_cartegory{
+        width: 100% !important;
+        margin-bottom: 50px;
+    }
+    .list_video{
+        width: 100% !important;
+    }
+    .carte_video{
+        display: block !important;
+        gap: 0 !important;
+    }
+    .wrap-productshot__boxbc-content-titles>a{
+        font-size: 14px !important;;
+    }
+    .box_Introduces{
+        padding-bottom: 0px !important;
+        border-radius: 10px !important;
+    }
+    .containerGT{
+        max-width: 90vw !important;
+        margin: 0 auto;
+    }
+    .wrapper-introduces{
+        padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    margin-bottom: 0 !important;
+    }
+    .name_top_feedback{
+        font-size: 20px !important;
+        margin-top: 30px !important;
+    }
+    .title_featured_category{
+        font-size: 18px !important;
+    }
+    .title_featured_product{
+        font-size: 16px !important;
+    }
+    .title_feedback{
+        font-size: 16px !important;;
+    }
+    .wrap-productshot__boxbc-content-titles{
+        font-size: 14px !important;
+        line-height: 1.5 !important;
+    }
+    .wrap-productshot__boxbc-content-price{
+        font-size: 14px !important;
+    }
+    .wrap-service__boxbc-content-titles>a{
+        font-size: 14px !important;
+    }
+    .name_category{
+        font-size: 4.103vw !important;
+    }
+    .name_featured::after{
+        width: 115px !important;
+    }
+    .grid-4{
+        grid-template-columns: repeat(2,1fr) !important;
+    }
+    #mmenu{
+        z-index: 999;
+    }
+    .bocongthuong{
+        width: 180px;
+    }
+    
+}

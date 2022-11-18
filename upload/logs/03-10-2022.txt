@@ -1,0 +1,7 @@
+115.78.2.63(admin)--insert--photo(16) (16:12:59 03/10/2022)
+115.78.2.63(admin)--update--setting([]) (16:16:06 03/10/2022)
+115.78.2.63(admin)--query--tables(delete from table_seo where idmuc =  and com = 'setting' and act = 'capnhat' and type = ) (16:16:06 03/10/2022)
+115.78.2.63(admin)--insert--seo(348) (16:16:06 03/10/2022)
+115.78.2.63(admin)--update--setting([]) (16:49:18 03/10/2022)
+115.78.2.63(admin)--query--tables(delete from table_seo where idmuc =  and com = 'setting' and act = 'capnhat' and type = ) (16:49:18 03/10/2022)
+115.78.2.63(admin)--insert--seo(349) (16:49:18 03/10/2022)
